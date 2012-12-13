@@ -1,0 +1,6 @@
+[Core]
+Name = Insulter
+Module = insulter
+    
+[Documentation]
+Description = An Err plugin that will insult a user in a room
